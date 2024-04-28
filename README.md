@@ -121,6 +121,9 @@ and click on the connect icon
 
 ![ro6](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/9ec4cd9a-59bf-4b36-84e2-ceba7f11ed65)
 
+![ro7](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/c086cca2-565a-4c82-85d9-024d2f72f35b)
+
+
 
 
 
