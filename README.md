@@ -1,5 +1,13 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+NAME: DIVYA R
+
+REG NO: 212222040040
+
+DATE:27/04/2024
+
+DEPT: CSE
+
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -79,7 +87,10 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the
+
+![ro1](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/791cdadf-8a6c-48ef-9558-8c184c5881de)
+
 
 
 
@@ -100,13 +111,34 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+![ro2](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/928e3ae6-3a61-490e-8282-b3b48421e8dc)
+
+![ro3](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/b80fe458-cb3b-4046-b8e3-4e46203b44ec)
+
+![ro4](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/85433e54-4e76-4cd4-8039-038d12b56e70)
+
+![ro5](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/83994796-5b58-4e8e-b39b-0ecd5b6d56bf)
+
+![ro6](https://github.com/divyadivya10/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119560271/9ec4cd9a-59bf-4b36-84e2-ceba7f11ed65)
 
 
 
 
 
 
-### Results: 
+
+
+Video link:
+
+https://drive.google.com/file/d/16vrki9nibqNeyHHRaJvtOtHwRCNdeD-z/view?usp=sharing
+
+### Results:
+
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt.
+
+
+
+
 
 
 
